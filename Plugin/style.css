@@ -22,6 +22,11 @@ body {
     resize:none;
 }
 
+.suggestionsLink {
+    text-align:center;
+    font-size:13px;
+}
+
 input[type="number"] {
     background-color: #ffffff;
     border: 1px solid #b1b1b1;
